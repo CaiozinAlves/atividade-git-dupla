@@ -5,6 +5,8 @@ function apresentarDupla() {
   console.log("Desenvolvedor 1: Caio Rafael Alves de Sousa - Matricula: UC23100468");
   console.log("=== Projeto de Versionamento Git ===");
   console.log("Desenvolvedor 2: Fábio Luiz Cardoso Laranjeria Rocha - Matricula: UC23101369");
+
+  console.log("=== Projeto ajuste de conflitos ===");
 }
 
 apresentarDupla();
