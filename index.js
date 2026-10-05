@@ -6,6 +6,7 @@ function apresentarDupla() {
   console.log("=== Projeto de Versionamento Git ===");
   console.log("Desenvolvedor 2: Fábio Luiz Cardoso Laranjeria Rocha - Matricula: UC23101369");
 
+  console.log("=== Ajuste de conflitos 2 ===");
   console.log("=== Projeto ajuste de conflitos ===");
 }
 
